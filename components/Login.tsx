@@ -19,7 +19,7 @@ function Login() {
         onClick={() => signIn("google")}
         className="text-white font-bold text-3xl animate-pulse "
       >
-        Sign In to use ChatGPT clone
+        Sign-In to use ChatGPT clone
       </button>
     </div>
   );
